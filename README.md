@@ -2,6 +2,9 @@
 Running Deepseek R1 Locally
 
 Step 1: Install ollama 
+
+
+
 Step 2: Install the Deepseek version suitable for your computer.
 Step 3: For my system I have installed  deepseek-r1:1.5b'
         After this write this command in your Command prompt: "ollama run deepseek-r1:1.5b"
